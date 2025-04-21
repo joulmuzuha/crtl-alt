@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ctrl-Alt Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Ctrl-Alt Website!</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We specialize in creative tech solutions and cybersecurity management.</p>
+        </section>
+        <section id="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Cybersecurity</li>
+                <li>IT Solutions</li>
+                <li>Web Development</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: contact@ctrl-alt.my</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ctrl-Alt. All rights reserved.</p>
+    </footer>
+</body>
+</html>
